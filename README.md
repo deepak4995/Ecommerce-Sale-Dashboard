@@ -1,4 +1,4 @@
-**Interactive Sales Dashboard using Power BI**
+**Interactive Sales Dashboard using Power BI:-**
 I built an interactive dashboard to track and analyze online sales data, covering everything from connecting raw data sources to designing impactful visualizations. This project represents a complete journey of data transformation, business intelligence, and storytelling through visuals.
 
 **Tools & Technologies Used**
@@ -38,4 +38,4 @@ This dashboard was designed with a business user in mind—to provide quick, act
 - Analyze sales distribution across geographies
 - Make data-driven decisions on inventory, promotions, or regional strategy
 
-**Screenshot**:-
+**Screenshot**:- Show what dashboard looks like https://github.com/deepak4995/Ecommerce-Sale-Dashboard/blob/main/Ecommerc%20Sale.png
