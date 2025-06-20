@@ -38,4 +38,4 @@ This dashboard was designed with a business user in mind—to provide quick, act
 - Analyze sales distribution across geographies
 - Make data-driven decisions on inventory, promotions, or regional strategy
 
-****Screenshot**:- **
+**Screenshot**:-
